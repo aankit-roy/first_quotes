@@ -54,7 +54,7 @@
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
             android:layout_marginEnd="58dp"
-            android:text="  !!GREAT QUOTES!! "
+            android:text="  GREAT QUOTES "
             android:textColor="@color/black"
             android:textSize="30dp"
             android:textStyle="bold" />
