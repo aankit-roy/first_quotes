@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+<!--    <item android:title="search"-->
+<!--        android:id="@+id/search"-->
+<!--        android:icon="@drawable/ic_baseline_search_24"-->
+<!--        app:showAsAction="ifRoom|collapseActionView"-->
+<!--        app:actionViewClass="android.widget.SearchView"-->
+<!--        android:iconTint="@color/black"-->
+<!--        />-->
+
+
+
+    <item android:title="Home"
+        android:id="@+id/ho"
+        android:icon="@drawable/ic_baseline_home_24"
+
+        android:iconTint="@color/black"
+
+        />
+    <item android:title="Save"
+        android:id="@+id/sa"
+        android:icon="@drawable/ic_baseline_save_alt_24"
+
+
+
+        />
+
+    <item android:title="Share"
+        android:id="@+id/sh"
+        android:icon="@drawable/ic_baseline_share_24"
+app:showAsAction="always"
+        android:iconTint="@color/black"
+
+
+
+
+        />
+
+
+
+
+</menu>
